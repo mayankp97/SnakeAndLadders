@@ -10,17 +10,19 @@ namespace Snake_And_Ladders
 
             var positionOfPlayer1 = 0;
 
+            var NumberOfROlls = 0;
+
             while (positionOfPlayer1 == 100)
             {
 
                 var NumRoll = RollTheDie();
-
+                NumberOfROlls++;
 
                 SnakeOrLadder(ref positionOfPlayer1, NumRoll);
-
-                
-                
+               
+                Console.WriteLine(positionOfPlayer1);    
             }
+            Console.WriteLine(NumberOfROlls);
             
             
         }
