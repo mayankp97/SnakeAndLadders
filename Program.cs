@@ -10,10 +10,18 @@ namespace Snake_And_Ladders
 
             var positionOfPlayer1 = 0;
 
-            var NumRoll = RollTheDie();
+            while (positionOfPlayer1 == 100)
+            {
 
-            SnakeOrLadder(ref positionOfPlayer1,NumRoll);
-            Console.WriteLine(positionOfPlayer1);
+                var NumRoll = RollTheDie();
+
+
+                SnakeOrLadder(ref positionOfPlayer1, NumRoll);
+
+                
+                
+            }
+            
             
         }
 
@@ -29,10 +37,13 @@ namespace Snake_And_Ladders
             {
                 case "Snake":
                     positionOfPlayer -= NumRoll;
+                    if (positionOfPlayer < 0)
+                        positionOfPlayer = 0;
                     break;
                 case "Ladder":
                     positionOfPlayer += NumRoll;
-                        break;
+                    
+                    break;
 
                 default:
                         break;
