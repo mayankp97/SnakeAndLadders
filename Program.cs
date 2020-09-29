@@ -7,6 +7,8 @@ namespace Snake_And_Ladders
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Virtual Snake & Ladders!!");
+
+            var positionPlayer1 = 0;
         }
     }
 }
