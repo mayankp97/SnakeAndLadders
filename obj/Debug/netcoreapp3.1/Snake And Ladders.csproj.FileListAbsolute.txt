@@ -1,0 +1,13 @@
+C:\Users\Mayank\source\repos\Snake And Ladders\bin\Debug\netcoreapp3.1\Snake And Ladders.exe
+C:\Users\Mayank\source\repos\Snake And Ladders\bin\Debug\netcoreapp3.1\Snake And Ladders.deps.json
+C:\Users\Mayank\source\repos\Snake And Ladders\bin\Debug\netcoreapp3.1\Snake And Ladders.runtimeconfig.json
+C:\Users\Mayank\source\repos\Snake And Ladders\bin\Debug\netcoreapp3.1\Snake And Ladders.runtimeconfig.dev.json
+C:\Users\Mayank\source\repos\Snake And Ladders\bin\Debug\netcoreapp3.1\Snake And Ladders.dll
+C:\Users\Mayank\source\repos\Snake And Ladders\bin\Debug\netcoreapp3.1\Snake And Ladders.pdb
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.csprojAssemblyReference.cache
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.AssemblyInfoInputs.cache
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.AssemblyInfo.cs
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.csproj.CoreCompileInputs.cache
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.dll
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.pdb
+C:\Users\Mayank\source\repos\Snake And Ladders\obj\Debug\netcoreapp3.1\Snake And Ladders.genruntimeconfig.cache
