@@ -42,7 +42,8 @@ namespace Snake_And_Ladders
                     break;
                 case "Ladder":
                     positionOfPlayer += NumRoll;
-                    
+                    if (positionOfPlayer > 100)
+                        positionOfPlayer -= NumRoll;
                     break;
 
                 default:
