@@ -9,6 +9,13 @@ namespace Snake_And_Ladders
             Console.WriteLine("Welcome to the Virtual Snake & Ladders!!");
 
             var positionPlayer1 = 0;
+
+            var NumRoll = RollTheDie();
+        }
+
+        public static int RollTheDie()
+        {
+            return new Random().Next(1, 7);
         }
     }
 }
