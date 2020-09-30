@@ -13,7 +13,7 @@ namespace Snake_And_Ladders
 
             var NumberOfROlls = 0;
 
-            while (positionOfPlayer1 < 100 || positionOfPlayer2<100)
+            while (positionOfPlayer1 < 100 && positionOfPlayer2<100)
             {
 
                 var NumRoll = RollTheDie();
@@ -32,8 +32,6 @@ namespace Snake_And_Ladders
 
                 
                 Console.WriteLine("Position of player 2 : " + positionOfPlayer2);
-                if (positionOfPlayer2 == 100)
-                    break;
             }
             Console.WriteLine(NumberOfROlls);
             if (positionOfPlayer1 == 100)
